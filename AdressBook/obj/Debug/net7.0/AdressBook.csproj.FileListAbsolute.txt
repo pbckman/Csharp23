@@ -1,0 +1,17 @@
+C:\AdressBook\AdressBook\AdressBook\bin\Debug\net7.0\AdressBook.exe
+C:\AdressBook\AdressBook\AdressBook\bin\Debug\net7.0\AdressBook.deps.json
+C:\AdressBook\AdressBook\AdressBook\bin\Debug\net7.0\AdressBook.runtimeconfig.json
+C:\AdressBook\AdressBook\AdressBook\bin\Debug\net7.0\AdressBook.dll
+C:\AdressBook\AdressBook\AdressBook\bin\Debug\net7.0\AdressBook.pdb
+C:\AdressBook\AdressBook\AdressBook\obj\Debug\net7.0\AdressBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\AdressBook\AdressBook\AdressBook\obj\Debug\net7.0\AdressBook.AssemblyInfoInputs.cache
+C:\AdressBook\AdressBook\AdressBook\obj\Debug\net7.0\AdressBook.AssemblyInfo.cs
+C:\AdressBook\AdressBook\AdressBook\obj\Debug\net7.0\AdressBook.csproj.CoreCompileInputs.cache
+C:\AdressBook\AdressBook\AdressBook\obj\Debug\net7.0\AdressBook.dll
+C:\AdressBook\AdressBook\AdressBook\obj\Debug\net7.0\refint\AdressBook.dll
+C:\AdressBook\AdressBook\AdressBook\obj\Debug\net7.0\AdressBook.pdb
+C:\AdressBook\AdressBook\AdressBook\obj\Debug\net7.0\AdressBook.genruntimeconfig.cache
+C:\AdressBook\AdressBook\AdressBook\obj\Debug\net7.0\ref\AdressBook.dll
+C:\AdressBook\AdressBook\AdressBook\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\AdressBook\AdressBook\AdressBook\obj\Debug\net7.0\AdressBook.csproj.AssemblyReference.cache
+C:\AdressBook\AdressBook\AdressBook\obj\Debug\net7.0\AdressBook.csproj.CopyComplete
